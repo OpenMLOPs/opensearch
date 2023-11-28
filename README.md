@@ -1,4 +1,5 @@
-# opensearch
+# OPENSEARCH STACK
+## Steps
 ## Use Cases
 1. Centralized Logging Tool
 ## References:
