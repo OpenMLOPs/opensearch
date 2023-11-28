@@ -36,11 +36,3 @@
 ## References:
 1. https://github.com/opensearch-project/data-prepper/tree/main/examples/log-ingestion
 2. https://opensearch.org/docs/latest/install-and-configure/install-opensearch/index/
-
-## RoadMap
-1. Creation of different container based application with opensearch able to accept logs from different services
-2. Addition of Application Metric Logs
-3. Addition of security layer to restrict accesss to opensearch container
-
-## Issues:
-1. Search for solution to avoid stop and start fluent-bit service due to connection error
